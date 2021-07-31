@@ -4,7 +4,7 @@
     <a href="https://discord.com/users/645296920922947615" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/382612768924368906"></a>
 </div>
 
-## Bildiğim diller!
+## Languages
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/typescript%20-%23E34F26.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 </div>
 
-## Sosyal medya hesaplarım!
+## My Accounts
 <p align="center">
    <a href="https://discord.com/users/382612768924368906" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://instagram.com/xrenata0" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
