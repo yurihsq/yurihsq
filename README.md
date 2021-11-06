@@ -7,11 +7,11 @@
 ## Languages
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=orange"/>  
-<img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=blue"/> 
-<img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=cyan"/>
-<img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=green"/>
+<img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust%20-%23323330.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
 
