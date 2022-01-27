@@ -2,19 +2,11 @@
 <h3 align="center">17 y.o Developer </h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=80ceff&style=flat-square" alt="d3r1n" /> 
+  <img src="https://komarev.com/ghpvc/?username=xrenata&label=Profile%20views&color=80ceff&style=flat-square" alt="xrenata" /> 
 
 </p>
 <div align="center">
 <a href="https://discord.com/users/382612768924368906"><img src="https://lanyard-profile-readme.vercel.app/api/382612768924368906?borderRadius=25px&bg=#282a36"></a>
-  
-<br/>
-  
-<h2 align="center">Pins:</h2>
-<div align="center">
-  
-  <a href="https://github.com/d3r1n/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=dotman&border_radius=25&theme=dracula&hide_border=true"></a>
-    <a href="https://github.com/d3r1n/brainsuck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=brainsuck&border_radius=25&theme=dracula&hide_border=true"></a>
 
 </div>
   
