@@ -7,7 +7,7 @@
 </p>
 <div align="center">
 <a href="https://discord.com/users/382612768924368906"><img src="https://lanyard-profile-readme.vercel.app/api/382612768924368906?borderRadius=25px&bg=#282a36"></a>
-<a href="https://discord.com/users/938435407052414998"><img src="https://lanyard-profile-readme.vercel.app/api/938435407052414998?borderRadius=25px&bg=#282a36"></a>
+<a href="https://discord.com/users/938435407052414998"><img src="https://lanyard-profile-readme.vercel.app/api/937316083533230110?borderRadius=25px&bg=#282a36"></a>
   
 </div>
   
